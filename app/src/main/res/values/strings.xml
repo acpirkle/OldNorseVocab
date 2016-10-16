@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Old Norse Vocab</string>
+    <string name="swedish_bttn">Swedish</string>
+    <string name="oldnorse_bttn">Old Norse</string>
+    <string name="testSwed">Test. Should of clicked Swedish</string>
+    <string name="testNorse">Test. Should of clicked Old Norse</string>
+    <string name="banner">Welcome to Old Norse Vocab.
+        Here you can practice your vocabulary so you can continue raiding and living your badass viking lives!
+        Or practise a contemporary language derived from the forefathers! </string>
 </resources>
